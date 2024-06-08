@@ -22,8 +22,8 @@ Before you begin, ensure you have the following requirements:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/image-steganography.git
-    cd image-steganography
+    https://github.com/Ahmadhassan147/DataCloak.git
+    cd DataCloak
     ```
 
 2. Open MATLAB and navigate to the project directory.
