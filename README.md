@@ -31,7 +31,7 @@ Before you begin, ensure you have the following requirements:
 ### Usage
 
 1. **Run the Script:**
-    - Open MATLAB and execute the main script (`steganography.m`). The script will prompt you to select the carrier and secret images, perform encryption, embedding, and extraction, and display the results.
+    - Open MATLAB and execute the main script (`main.m`). The script will prompt you to select the carrier and secret images, perform encryption, embedding, and extraction, and display the results.
 
 2. **Step-by-Step Process:**
     - **Select Carrier and Secret Images:** Use the GUI prompts to select the images.
